@@ -1,1 +1,5 @@
 # Covid-19-Image-Classification
+
+In this project, we aim to classify COVID-19 from chest X-ray images using three different models: VGG19, Inception V3, and a custom CNN. VGG19 is a pre-trained deep neural network model that has achieved state-of-the-art performance in image classification tasks. Inception V3 is another pre-trained model that is designed to be computationally efficient and can handle input images of various sizes. Finally, we will also train a custom CNN model from scratch to compare its performance with the pre-trained models.
+
+COVID-19 image classification dataset is a collection of medical imaging data, such as chest X-rays from individuals with confirmed COVID-19 cases, as well as normal images and viral pneumonia images. These images may come    from various sources, such as hospitals, research institutions, or public health agencies, and may include images from  diverse populations, covering different age groups, genders, ethnicities, and geographical locations. By training these images using different deep learning models to classify COVID-19 cases based on these images.
